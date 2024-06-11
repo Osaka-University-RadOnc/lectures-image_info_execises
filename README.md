@@ -1,0 +1,1 @@
+# lectures-image_info_execises
