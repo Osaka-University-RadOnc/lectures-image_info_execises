@@ -1,1 +1,1 @@
-# lectures-image_info_execises
+# 画像情報学演習　講義資料
